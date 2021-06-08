@@ -209,7 +209,7 @@ class _AccountsPageState extends State<AccountsPage> {
                 'Full Name',
                 style: TextStyle(fontWeight: FontWeight.bold, fontSize: 16.0),
               ),
-              subtitle: Text('Ahmed Yasir\n'),
+              subtitle: Text('Muhammad Shehroz Sarmad\n'),
               trailing: Icon(Icons.edit),
             ),
             CustomListTile('Email', 'shehrozm107@gmail.com'),
